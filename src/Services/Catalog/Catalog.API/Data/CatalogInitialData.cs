@@ -1,5 +1,4 @@
 ﻿using Marten.Schema;
-using System.Xml;
 
 namespace Catalog.API.Data
 {
